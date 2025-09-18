@@ -1,1 +1,0 @@
-print("file5.py is created")
