@@ -1,1 +1,1 @@
-print("create feature2.py on main branch")
+print("feature2.py created on both main and feature branch")
